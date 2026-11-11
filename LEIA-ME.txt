@@ -1,0 +1,6 @@
+ESQUADRÃO · TRT 5 BA — como subir
+
+1. Extraia o zip e suba TUDO junto: index.html, vercel.json, .htaccess e a pasta "assets"
+   (arraste a pasta inteira, sem abrir — as imagens precisam ficar dentro de assets/).
+2. Links de checkout: no fim do index.html, bloco LINKS (tecnico, analistaAdm, analistaJud).
+3. Teste a nota no PageSpeed com a URL publicada (https), não com o arquivo local.
